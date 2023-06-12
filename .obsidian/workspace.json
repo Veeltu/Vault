@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "open source/FEATURE Resources lazy loading 217 1.md",
+                "file": "daily notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62b68f392b4eb1f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech docs/Intersection Observer API.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 512.5
   },
   "right": {
     "id": "4c96a5f169d009aa",
@@ -78,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "open source/FEATURE Resources lazy loading 217 1.md",
+                "file": "tech docs/Intersection Observer API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "open source/FEATURE Resources lazy loading 217 1.md"
+                "file": "tech docs/Intersection Observer API.md"
               }
             }
           }
@@ -120,10 +134,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1f1015768536064",
+  "active": "97a9fe51716c0aa8",
   "lastOpenFiles": [
-    "open source/FIX buggy tag UI in filter 188.md",
     "open source/FEATURE Resources lazy loading 217 1.md",
+    "tech docs/SSH setup.md",
+    "tech docs/Intersection Observer API.md",
+    "random/notes architerkuta server side rendering.md",
+    "open source/FIX buggy tag UI in filter 188.md",
     "open source/FEATURE Basic resource metrics 187.md",
     "Azure cert/Pasted image 20230530092039.png",
     "Azure cert/Untitled.md",
@@ -131,15 +148,12 @@
     "Azure cert/Untitled 3.md",
     "daily notes.md",
     "Azure cert/Untitled 1.md",
-    "tech docs/Intersection Observer API.md",
-    "tech docs/SSH setup.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Azure cert",
     "Azure cert/Pasted image 20230530102115.png",
     "Azure cert/Pasted image 20230530094447.png",
     "Azure cert/Pasted image 20230530092045.png",
-    "random/notes architerkuta server side rendering.md",
     "random",
     "tech docs",
     "open source/FEATURE Resources lazy loading 217.md",

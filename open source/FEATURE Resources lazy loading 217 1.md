@@ -158,3 +158,21 @@ cool scroll top implementation
 |||});|
 ```
 
+## The best tutor about Intersection observer
+https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/
+typical observer regustration 
+```js
+/**
+* Typical Observer's registration
+*/
+let observer = new YOUR-TYPE-OF-OBSERVER(function (entries) {
+  // entries: Array of observed elements
+  entries.forEach(entry => {
+      // Here we can do something with each particular entry
+  });
+});
+
+// Now we should tell our Observer what to observe
+observer.observe(WHAT-TO-OBSERVE);
+
+```
