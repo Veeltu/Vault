@@ -11,13 +11,8 @@
             "id": "c1f1015768536064",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -26,7 +21,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech docs/Intersection Observer API.md",
+                "file": "daily notess.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01efd9ead8c00f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "links.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 200
   },
   "right": {
     "id": "4c96a5f169d009aa",
@@ -92,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech docs/Intersection Observer API.md",
+                "file": "links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech docs/Intersection Observer API.md"
+                "file": "links.md"
               }
             }
           }
@@ -134,8 +142,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97a9fe51716c0aa8",
+  "active": "01efd9ead8c00f69",
   "lastOpenFiles": [
+    "daily notess.md",
+    "links.md",
     "open source/FEATURE Resources lazy loading 217 1.md",
     "tech docs/SSH setup.md",
     "tech docs/Intersection Observer API.md",
