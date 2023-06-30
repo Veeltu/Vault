@@ -8,28 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1f1015768536064",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "62b68f392b4eb1f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily notess.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01efd9ead8c00f69",
+            "id": "8eb171e7c63f5de7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,9 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17081d7b94c8d1b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks CDPOL/JOB - Samsung Guard Services.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,13 +133,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01efd9ead8c00f69",
+  "active": "8eb171e7c63f5de7",
   "lastOpenFiles": [
-    "daily notess.md",
+    "todo.md",
     "links.md",
-    "open source/FEATURE Resources lazy loading 217 1.md",
-    "tech docs/SSH setup.md",
     "tech docs/Intersection Observer API.md",
+    "tech docs/SSH setup.md",
+    "tasks CDPOL/JOB - Samsung Guard Services.md",
+    "tasks CDPOL",
+    "tasks UK",
+    "open source/FEATURE Resources lazy loading 217 1.md",
     "random/notes architerkuta server side rendering.md",
     "open source/FIX buggy tag UI in filter 188.md",
     "open source/FEATURE Basic resource metrics 187.md",
